@@ -1,8 +1,8 @@
--- code oracle plsql
+]-- code oracle plsql
 -- question 9
 -- criar sequence, compilar procedure e trigger
 
-create sequence seq_oid;
+-- create sequence seq_oid;
 
 create or replace procedure pc_om_record(p_rec in out om_record%rowtype) is
 begin
