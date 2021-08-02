@@ -1,4 +1,4 @@
-]-- code oracle plsql
+-- code oracle plsql
 -- question 9
 -- criar sequence, compilar procedure e trigger
 
