@@ -1,7 +1,7 @@
 create or replace function calc_tam_str(p_str varchar2) return number is
 --
 -- code oracle plsql
--- question 6
+-- question 7
 -- compilar function
 --
 str varchar2(1);
